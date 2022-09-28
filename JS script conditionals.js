@@ -42,10 +42,13 @@ if(a%3==0 && a%5==0) {
 
 } else if ((a%5)==0) {
     
-console.log("bUZZ")
+console.log("Buzz")
 }else 
+
 { console.log(a)
+    
 }
+
 
 
 
